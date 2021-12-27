@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Biscos_Georgiana_Vanessa_Lab8.csproj.Pages
+namespace Biscos_Georgiana_Vanessa_Lab8.Pages
 {
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     [IgnoreAntiforgeryToken]
